@@ -1,0 +1,11 @@
+{
+  "name": "graphql-server-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/purwnt/graphql-server-nodejs.git",
+  "author": "purwanto1337 <purwanto1337@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.13.1"
+  }
+}
